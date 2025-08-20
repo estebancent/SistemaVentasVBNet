@@ -1,0 +1,26 @@
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Archivos de configuración de usuario
+*.user
+*.suo
+*.vspscc
+*.vssscc
+.vs/
+
+# Paquetes NuGet
+*.nupkg
+packages/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
